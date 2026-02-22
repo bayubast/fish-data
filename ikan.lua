@@ -36,4 +36,5 @@ return {
     ["Pirate Megalodon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Pirate%20Megalodon.png",
     ["Cursed Kraken"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Cursed%20Kraken.png",
     ["Elpirate Gran Maja"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Elpirate%20Gran%20Maja.png",
+    ["Bloodmoon Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Bloodmoon%20Whale.png",
 }
