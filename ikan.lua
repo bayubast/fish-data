@@ -40,5 +40,6 @@ return {
     ["Broken Heart Nessie"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Broken%20Heart%20Nessie.png",
     ["Cosmic Mutant Shark"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Cosmic%20Mutant%20Shark.png",
     ["Sea Eater"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Sea%20Eater%20v2.png",
+    ["Mutant Runic Koi"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Mutant%20Runic%20Koi.png"
     
 }
