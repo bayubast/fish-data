@@ -42,5 +42,6 @@ return {
     ["Sea Eater"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Sea%20Eater%20v2.png",
     ["Mutant Runic Koi"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Mutant%20Runic%20Koi.png",
     ["Ketupat Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ketupat%20Whale.png",
+    ["Thunderzilla"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Thunderzilla.png",
     
 }
