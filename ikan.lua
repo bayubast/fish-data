@@ -43,5 +43,6 @@ return {
     ["Mutant Runic Koi"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Mutant%20Runic%20Koi.png",
     ["Ketupat Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ketupat%20Whale.png",
     ["Thunderzilla"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Thunderzilla.png",
+    ["Bonemaw Tyrant"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Bonemaw%20Tyrant.png",
     
 }
