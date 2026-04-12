@@ -45,4 +45,5 @@ return {
     ["Thunderzilla"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Thunderzilla.png",
     ["Bonemaw Tyrant"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Bonemaw%20Tyrant.png",
     ["Strawberry Orca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Strawberry%20Orca.png",
+    ["Iridesca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Iridesca.png"
 }
