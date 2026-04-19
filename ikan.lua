@@ -46,5 +46,5 @@ return {
     ["Bonemaw Tyrant"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Bonemaw%20Tyrant.png",
     ["Strawberry Orca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Strawberry%20Orca.png",
     ["Iridesca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Iridesca.png",
-    ["Deepsea Axolotl"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Deepsea%20Axolotl.png",
+    ["Deepsea Monster Axolotl"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Deepsea%20Axolotl.png",
 }
