@@ -47,4 +47,6 @@ return {
     ["Strawberry Orca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Strawberry%20Orca.png",
     ["Iridesca"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Iridesca.png",
     ["Deepsea Monster Axolotl"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Deepsea%20Axolotl.png",
+    ["Frostbite Leviathan"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Frosbite%20Leviathan.png",
+}
 }
