@@ -50,4 +50,5 @@ return {
     ["Frostbite Leviathan"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Frosbite%20Leviathan.png",
     ["Blocky Lochness Monster"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Blocky%20Lochness%20Monster.png",
     ["Aurelion"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Aurelion-removebg-preview.png",
+    ["Runic Enchant Stone"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Runic%20Enchant%20Stone.png",
 }
