@@ -55,4 +55,5 @@ return {
     ["Fluorivane"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Fluorivane.png",
     ["Coral Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Coral%20Whale.png",
     ["Flame Tyrant"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Flame%20Tyrant.png",
+    ["Cerulean Dragon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Cerulean%20Dragon.PNG",
 }
