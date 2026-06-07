@@ -56,4 +56,7 @@ return {
     ["Coral Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Coral%20Whale.png",
     ["Flame Tyrant"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Flame%20Tyrant.png",
     ["Cerulean Dragon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Cerulean%20Dragon.PNG",
+    ["MACHODON"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/MACHODON.png",
+    ["Scorching Veinmaw"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/MACHODON.png",
+    ["Withering Core"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/MACHODON.png", 
 }
