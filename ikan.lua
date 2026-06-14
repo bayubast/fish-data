@@ -60,5 +60,5 @@ return {
     ["Scorching Veinmaw"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Scorching%20Veinmaw.png",
     ["Withering Core"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Withering%20Core.png",
     ["Crystal Goliath"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Crystal%20Goliath.png",
-    ["Frostmoon Whale"] =
+    ["Frostmoon Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Frostmoon%20Whale.png",
 }
