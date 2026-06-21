@@ -63,4 +63,7 @@ return {
     ["Frostmoon Whale"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Frostmoon%20Whale.png",
     ["Crystalline Behemoth"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Crystalline%20Behemoth.png",
     ["Elemental Tempestray"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Elemental%20Tempestray.png",
+    ["Dark Megalodon"] = "",
+
+    
 }
