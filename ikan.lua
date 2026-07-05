@@ -65,5 +65,6 @@ return {
     ["Elemental Tempestray"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Elemental%20Tempestray.png",
     ["Dark Megalodon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Dark%20Megalodon.png",
     ["Caustic Maw"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Caustic%20Maw.png",
-    ["Trench Warden"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Trench%20Warden.png"
+    ["Trench Warden"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Trench%20Warden.png",
+    ["Coral Reaper"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Coral%20Reaper.png",
 }
