@@ -68,6 +68,4 @@ return {
     ["Trench Warden"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Trench%20Warden.png",
     ["Coral Reaper"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Coral%20Reaper.png",
     ["Caeruleum Razerback"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Caeruleum%20Razerback.png",
-    [""] = ""
-}
 }
