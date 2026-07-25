@@ -68,4 +68,7 @@ return {
     ["Trench Warden"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Trench%20Warden.png",
     ["Coral Reaper"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Coral%20Reaper.png",
     ["Caeruleum Razerback"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Caeruleum%20Razerback.png",
-}
+    ["Colossal Shipwreck Crab"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Colossal%20Shipwreck%Crab.png",
+    ["Glacial Serpent"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Glacial%20Serpent.png",
+    ["Sacred Temple"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Sacred%20Temple.png",
+    }
