@@ -74,6 +74,6 @@ return {
     ["Astrelle"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astrelle.png",
     ["Pelagon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Pelagon.PNG",
     ["Moonwake Ray"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Moonwake%20Ray.PNG",
-    ["Ragnarex"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ragnarex",
-    ["Astralune"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astralune",
+    ["Ragnarex"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ragnarex.png",
+    ["Astralune"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astralune.png",
 }
