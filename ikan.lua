@@ -71,5 +71,7 @@ return {
     ["Colossal Shipwreck Crab"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Colossal%20Shipwreck%Crab.png",
     ["Glacial Serpent"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Glacial%20Serpent.png",
     ["Sacred Temple"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Sacred%20Temple.png",
-    ["Astrelle"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astrelle.png"
-    }
+    ["Astrelle"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astrelle.png",
+    ["Pelagon"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Pelagon.PNG",
+    ["Moonwake Ray"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Moonwake%20Ray.PNG",
+}
