@@ -76,4 +76,5 @@ return {
     ["Moonwake Ray"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Moonwake%20Ray.PNG",
     ["Ragnarex"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ragnarex.png",
     ["Astralune"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astralune.png",
+    ["Starglass Guardian"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Starglass%20Guardian.png",
 }
