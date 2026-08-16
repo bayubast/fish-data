@@ -77,4 +77,6 @@ return {
     ["Ragnarex"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Ragnarex.png",
     ["Astralune"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Astralune.png",
     ["Starglass Guardian"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Starglass%20Guardian.png",
+    ["Riftborn Arowana"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Riftborn%20Arowana.png",
+    ["Crimson Dreadtusk"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Crimson Dreadtusk.png",
 }
