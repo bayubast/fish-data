@@ -84,7 +84,7 @@ return {
     ["OVERLORD HYDRA"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/OVERLORD%20HYDRA.png",
     ["Pyrocoil"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Pyrocoil.png",
     ["Stormshell Brute"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Stormshell%20Brute.png",
-    ["Tribunal Withering Core"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Tribunal%20Withering%20Core",
+    ["Tribunal Withering Core"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Tribunal%20Withering%20Core.png",
     ["Wintertusk Mammofin"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Wintertusk%20Mammofin",
     ["ELEMENTAL HYDRA"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/ELEMENTAL%20HYDRA",
 }
