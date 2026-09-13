@@ -86,5 +86,7 @@ return {
     ["Stormshell Brute"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Stormshell%20Brute.png",
     ["Tribunal Withering Core"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Tribunal%20Withering%20Core.png",
     ["Wintertusk Mammofin"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Wintertusk%20Mammofin",
-    ["ELEMENTAL HYDRA"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/ELEMENTAL%20HYDRA",
+    ["ELEMENTAL HYDRA"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/ELEMENTAL%20HYDRA.png",
+    ["Everbloom"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Everbloom.png",
+    ["Mr Money Bags"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Mr%20Money%20Bags.png",
 }
