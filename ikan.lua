@@ -89,4 +89,5 @@ return {
     ["ELEMENTAL HYDRA"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/ELEMENTAL%20HYDRA.png",
     ["Everbloom"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Everbloom.png",
     ["Mr Money Bags"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/Mr%20Money%20Bags.png",
+    ["VeloByte"] = "https://raw.githubusercontent.com/bayubast/fish-data/main/VeloByte.png",
 }
